@@ -4,6 +4,12 @@
   margin-bottom: 1rem;
   color: #2574A9;
 }
+
+.title:hover {
+    background-color: yellow;
+}
+
+}
 .card {
   margin-bottom: 1rem;
 }
